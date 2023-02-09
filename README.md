@@ -4,6 +4,7 @@
 - 🌱 Foco Atual: Front-End
 - 🤔 Estudando INCESSANTEMENTE Javascript e seus frameworks/bibliotecas
 - 📫 Buscando uma vaguinha de desenvolvedor Front-End...
+- 👜 E-mail: iago.leobass@gmail.com
 
 <div>
   <a href="https://github.com/IagoLeobas">
