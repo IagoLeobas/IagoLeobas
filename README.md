@@ -1,9 +1,10 @@
 ### Hi Guys, I'm Iago! 👋
 
 - 🔭 Estou estudando e desenvolvendo aplicações Web
-- 🌱 Foco Atual: Front-End
-- 🤔 Estudando INCESSANTEMENTE Javascript e seus frameworks/bibliotecas
-- 📫 Buscando uma vaguinha de desenvolvedor Front-End...
+- 🛠️ Estagiando na UNITINS/FAPTO
+- 🌱 Foco Atual: Front-End/Engenharia de Software
+- 🤔 Estudando <strong>INCESSANTEMENTE </strong> Javascript e seus frameworks/bibliotecas
+- 📫 Buscando vaga de desenvolvedor Front-End || Engenheiro de Software...
 - 👜 E-mail: iago.leobass@gmail.com
 
 <div>
