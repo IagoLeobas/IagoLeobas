@@ -1,10 +1,8 @@
 ### Hi Guys, I'm Iago! 👋
 
-- 🔭 Estou estudando e desenvolvendo aplicações Web
-- 🛠️ Estagiando na UNITINS/FAPTO
-- 🌱 Foco Atual: Front-End/Engenharia de Software
-- 🤔 Atualmente estudando Javascript e seus frameworks/bibliotecas
-- 📫 Buscando vaga de desenvolvedor Front-End || Engenheiro de Software...
+- 🔭 Bacharel em Sistemas de Informação pela UNITINS - TO
+- 🛠️ Desenvolvedor Full Stack na Megasoft
+- 🌱 Foco Atual: Engenharia de Software
 - 👜 E-mail: iago.leobass@gmail.com
 
 <div>
