@@ -1,7 +1,7 @@
 ### Hi Guys, I'm Iago! 👋
 
 - 🔭 Bacharel em Sistemas de Informação pela UNITINS - TO
-- 🛠️ Desenvolvedor Full Stack na Megasoft
+- 🛠️ Analista de Sistemas na Corteva Agriscience
 - 🌱 Foco Atual: Engenharia de Software
 - 👜 E-mail: iago.leobass@gmail.com
 
